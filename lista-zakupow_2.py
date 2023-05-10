@@ -5,3 +5,4 @@ for key,value in shopping_dict.items():
       count += len(value)
       print(f'Idę do: {key.upper()}, i kupuje tam: {value}')
 print(f' W sumie kupuje {count}')
+print("pozdrawiam")
